@@ -1,6 +1,15 @@
 .intro {
   font-family:sans-serif;
+  margin-top:50px;
+  margin-bottom:50px;
+  border: 50px groove green;
+  padding: 20px;
 }
 .about{
   font-family:cursive;
+  border: 20px dotted blue;
+  padding: 40px;
+}
+body{
+  background-color: azure;
 }
